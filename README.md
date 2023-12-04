@@ -5,7 +5,7 @@ MarkDown to (ODT) Google Docs / Google Drive Conversion Colab
 
 Google Drive does a horrible job of handling Markdown content from ChatGPT. This notebook is designed to convert ChatGPT Markdown content into an OpenDocument Text (ODT) file and save it to your Google Drive so you can edit it without losing all your formatting. 
 
-#### How to Use the Notebook ([Markdown_Converter.ipynb](https://github.com/clarkdever/MD2GD/blob/main/Markdown_Converter.ipynb)):
+#### How to Use the Notebook ([Markdown_Converter.ipynb](https://github.com/clarkdever/MD2GD/blob/main/Markdown_Converter.ipynb)): [![Open Notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clarkdever/MD2GD/blob/main/Markdown_Converter.ipynb)
 1. **Install Dependencies**:
    - Run the first code block titled "Install the Dependencies". This step installs Pandoc and pypandoc, which are essential for the Markdown to ODT conversion process.
 
